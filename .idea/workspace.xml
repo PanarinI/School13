@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fee9261-70d9-40e7-9561-03228b8a9092" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/main13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/reverse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Gnetusheva_discipline.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/Post_Gnetushevoy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/content_formats.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/post_H1_roundup_dir.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/timetable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Visuals/style.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/chars_list.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/chars_soul.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/minister.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/students.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main13.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PythonProject\School13\Concept" />
+      <recent name="F:\PythonProject\School13\Plots" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
