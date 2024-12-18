@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 
 main_ids.txt
+Management/main_ids.txt
