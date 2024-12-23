@@ -3,7 +3,7 @@ import os
 
 # Указываем путь к файлу
 print(f"Текущая директория: {os.getcwd()}")  # Вывод текущей директории
-FILE_NAME = os.path.join(os.getcwd(), "Management/acc_reg_data.xlsx")
+FILE_NAME = os.path.join(os.getcwd(), "Management/***.xlsx")
 
 # Создание Excel-файла
 def create_excel_file():
