@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fee9261-70d9-40e7-9561-03228b8a9092" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Concept/bots_talk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/hybrid_style.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/projectcontext_gpt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/slet.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/Berezkina_Prudnikov_Drovdova_parents.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/Schupaltsev_bio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/Smelova_uch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/Ukroschennaya_psy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/Zorina_parent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/berezkin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/chars_desc_tg.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/love_chicken.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/love_chicken.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/Gnetusheva_profile.md" beforeDir="false" afterPath="$PROJECT_DIR$/chars/Gnetusheva_profile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/Nedoskazov_profile.md" beforeDir="false" afterPath="$PROJECT_DIR$/chars/Nedoskazov_profile.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +35,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PanarinI&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PanarinI/School13.git&quot;,
+    &quot;accountId&quot;: &quot;ce6b9561-9eba-433e-8efc-1ae64214e4c2&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Management/accounts_process.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
@@ -41,12 +64,14 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.API_haiku.executor&quot;: &quot;Run&quot;,
     &quot;Python.Poslushny_botmanagerbot.executor&quot;: &quot;Run&quot;,
     &quot;Python.acc_reg_data.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.godbot.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/PythonProject/School13/Bots&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/PythonProject/School13&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
