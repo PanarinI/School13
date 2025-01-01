@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fee9261-70d9-40e7-9561-03228b8a9092" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Concept/hybrid_style.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concept/projectcontext_gpt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plots/slet.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/Berezkina_Prudnikov_Drovdova_parents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/Schupaltsev_bio.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/Smelova_uch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/Ukroschennaya_psy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/Zorina_parent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/berezkin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chars/chars_desc_tg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/school_key_concepts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/school_system.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concept/style_sheepovtsy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plots/post_H1_roundup_dir_v2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ref/keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupID_check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bots/love_chicken.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/love_chicken.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chars/Gnetusheva_profile.md" beforeDir="false" afterPath="$PROJECT_DIR$/chars/Gnetusheva_profile.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chars/Nedoskazov_profile.md" beforeDir="false" afterPath="$PROJECT_DIR$/chars/Nedoskazov_profile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/godbot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/godbot_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/godbot_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/group_id.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/group_id.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,19 +58,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.API_haiku.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Poslushny_botmanagerbot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.acc_reg_data.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.godbot.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/PythonProject/School13&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.API_haiku.executor": "Run",
+    "Python.Poslushny_botmanagerbot.executor": "Run",
+    "Python.acc_reg_data.executor": "Debug",
+    "Python.godbot.executor": "Run",
+    "Python.godbot_channel.executor": "Run",
+    "Python.godbot_group.executor": "Run",
+    "Python.godbot_test.executor": "Run",
+    "Python.groupID_check.executor": "Run",
+    "Python.keywords.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/PythonProject/School13/Bots",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PythonProject\School13\Bots" />
