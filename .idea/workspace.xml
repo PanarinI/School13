@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fee9261-70d9-40e7-9561-03228b8a9092" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Concept/school_key_concepts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concept/school_system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concept/style_sheepovtsy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plots/post_H1_roundup_dir_v2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ref/keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/groupID_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bots/godbot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bots/godbot_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/godbot_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bots/group_id.md" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/group_id.md" afterDir="false" />
-    </list>
+    <list default="true" id="3fee9261-70d9-40e7-9561-03228b8a9092" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
