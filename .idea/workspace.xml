@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fee9261-70d9-40e7-9561-03228b8a9092" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/School13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/School13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chars/berezkin.md" beforeDir="false" afterPath="$PROJECT_DIR$/chars/berezkin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/godbot_channel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/godbot_channel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/godbot_group.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bots/godbot_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bots/godbot_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plots/post_H1_roundup_dir_v2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Plots/post_H1_roundup_dir_v2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/Nedoskazov.md" beforeDir="false" afterPath="$PROJECT_DIR$/chars/Nedoskazov.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,24 +56,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.API_haiku.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Poslushny_botmanagerbot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.acc_reg_data.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.godbot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.godbot_channel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.godbot_group.executor&quot;: &quot;Run&quot;,
-    &quot;Python.godbot_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.groupID_check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.keywords.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/PythonProject/School13/Bots&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.API_haiku.executor": "Run",
+    "Python.Poslushny_botmanagerbot.executor": "Run",
+    "Python.acc_reg_data.executor": "Debug",
+    "Python.delete_messages.executor": "Run",
+    "Python.godbot.executor": "Run",
+    "Python.godbot_channel.executor": "Run",
+    "Python.godbot_group.executor": "Run",
+    "Python.godbot_test.executor": "Run",
+    "Python.groupID_check.executor": "Run",
+    "Python.keywords.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/PythonProject/School13/Bots",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\PythonProject\School13\Bots" />

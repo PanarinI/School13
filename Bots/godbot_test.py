@@ -40,16 +40,24 @@ async def post_to_channel(update: Update, context: CallbackContext):
             await update.message.reply_text("Ошибка: недостаточно аргументов. Использование: /post <ТекстСообщения>")
             return
 
+        # Объединяем текст в единый блок
         message_text = " ".join(context.args)
-        bot = context.bot
 
-        # Публикуем сообщение в канале
-        channel_message = await bot.send_message(chat_id=channel_id, text=message_text)
+        # Убедимся, что двойные переносы строк интерпретируются
+        message_text = message_text.replace("\\n", "\n")
+
+        # Публикуем текст
+        channel_message = await context.bot.send_message(
+            chat_id=channel_id,
+            text=message_text
+        )
         logging.info(f"Сообщение опубликовано в канале: ID={channel_message.message_id}")
         await update.message.reply_text(f"Сообщение опубликовано в канале: ID={channel_message.message_id}")
     except Exception as e:
         logging.error(f"Ошибка в /post: {e}")
         await update.message.reply_text(f"Ошибка: {e}")
+
+
 
 # Добавление комментария к посту
 async def comment_to_post(update: Update, context: CallbackContext):
